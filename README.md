@@ -1,5 +1,5 @@
 # general-issues
-**How to copy workspace from one to another**
+**How to copy ros workspace from one system to another**
 This tutorial shows how to avoid catkin_make issues while copying catkin workspace to another system.
 You can copy packages since it has no relationship between the workspace and I hope it won't throw any error but when you copy workspace  and then you try for a catkin_make then you may get error like this
 ```
